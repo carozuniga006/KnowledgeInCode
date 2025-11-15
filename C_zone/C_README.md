@@ -1,6 +1,7 @@
-**────────────────────────────────────────────
+────────────────────────────────────────────
+                 
                  C_zone • C Exercises
-────────────────────────────────────────────**
+────────────────────────────────────────────
 
 Hola, soy ***Carolina Zuñiga.***
 
@@ -11,6 +12,31 @@ Durante este periodo cursé la materia **Fundamentos de Programación**, donde a
 Los ejercicios están organizados por temas y comandos, e incluyen varios ejemplos para cada apartado.
 
 Espero que estos ejercicios puedan serte útiles.
+
+**────────────────────────────────**
+
+**Temas cubiertos**
+
+┌─────────────────────────────────────────────────────────────────────────┐
+
+  │  • Estructuras de control repetitivas (for, while, do-while)                                                                                                                                                                                                                                                              
+  │  • Estructuras de selección con switch-case (incluyendo control con do-while)                                                                    
+
+
+  │  • Funciones en C (parámetros, retorno de valores y todas sus combinaciones)                                                                     
+
+
+  │  • Arreglos unidimensionales (lectura, escritura y manipulación básica)                                                                          
+
+
+  │  • Arreglos bidimensionales (operaciones con matrices)                                                                                           
+
+
+  │  • Evaluaciones y ejercicios integradores de programación                                                                                        
+
+
+└─────────────────────────────────────────────────────────────────────────┘
+
 
 **────────────ENGLISH─────────────**
 
@@ -27,14 +53,22 @@ I hope these exercises are helpful to you.
 
 **────────────────────────────────**
 
-**Temas cubiertos**
+**Covered Topics**
 
-┌──────────────────────────────────────────────────────────────────────────────┐
-│ • Estructuras de control repetitivas (for, while, do-while)                  │
-│ • Estructuras de selección con switch-case (incluyendo control con do-while) │
-│ • Funciones en C (parámetros, retorno de valores y todas sus combinaciones)  │
-│ • Arreglos unidimensionales (lectura, escritura y manipulación básica)       │
-│ • Arreglos bidimensionales (operaciones con matrices)                        │
-│ • Evaluaciones y ejercicios integradores de programación                     │
-└──────────────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────┐
+
+│ • Repetitive control structures (for, while, do-while) 
+
+│ • Selection structures with switch-case (including control using do-while)  
+
+│ • Functions in C (parameters, return values, and all their combinations)
+
+│ • One-dimensional arrays (reading, writing, and basic manipulation)     
+
+│ • Two-dimensional arrays (matrix operations)                            
+
+│ • Programming evaluations and integrative exercises                     
+
+└─────────────────────────────────────────────────────────────────────────┘
+
 
