@@ -6,8 +6,6 @@ public class Main {
 
         Scanner sc = new Scanner(System.in);
 
-        Rectangulo rectangulo1 = new Rectangulo(6, 7);
-
         System.out.println("Ingrese la base del rectangulo: ");
         double base = sc.nextDouble();
         System.out.println("Ingrese la altura del rectangulo: ");
@@ -17,7 +15,7 @@ public class Main {
             System.out.println("ERROR. Los datos no pueden ser negativos\n");
         }
         else {
-
+            Rectangulo rectangulo1 = new Rectangulo(base, altura);
             rectangulo1.calcularArea(base, altura);
             rectangulo1.calcularPerimetro(base, altura);
             rectangulo1.mostrarCalculos();

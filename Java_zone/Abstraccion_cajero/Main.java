@@ -14,7 +14,7 @@ public class Main {
         System.out.println("Saldo inicial: ");
         double saldo = sc.nextDouble();
 
-        CuentaBancaria cuenta = new CuentaBancaria("Carolina Zuniga", "4152674838273", 3440.78);
+        CuentaBancaria cuenta = new CuentaBancaria(titular, numero, saldo);
 
         System.out.println("Cantidad a depositar: ");
         double dep = sc.nextDouble();
