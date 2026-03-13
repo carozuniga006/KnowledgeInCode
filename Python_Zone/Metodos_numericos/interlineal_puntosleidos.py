@@ -55,33 +55,3 @@ def grafica():
     plt.show()
 
 grafica()
-
-# SALIDA/EJECUCION
-#
-# Ingresa cantidad de puntos a capturar: 7
-# Ingresa valor de x del punto 0: 0
-# Ingresa valor de y del punto 0: 0
-# Ingresa valor de x del punto 1: 1
-# Ingresa valor de y del punto 1: 0.8415
-# Ingresa valor de x del punto 2: 2
-# Ingresa valor de y del punto 2: 0.9093
-# Ingresa valor de x del punto 3: 3
-# Ingresa valor de y del punto 3: 0.1411
-# Ingresa valor de x del punto 4: 4
-# Ingresa valor de y del punto 4: -0.7568
-# Ingresa valor de x del punto 5: 5
-# Ingresa valor de y del punto 5: -0.9589
-# Ingresa valor de x del punto 6: 6
-# Ingresa valor de y del punto 6: -0.2794
-# Número de puntos 7
-# Variable puntos: [(0.0, 0.0), (1.0, 0.8415), (2.0, 0.9093), (3.0, 0.1411), (4.0, -0.7568), (5.0, -0.9589), (6.0, -0.2794)]
-# Valores de x: [0.0, 1.0, 2.0, 3.0, 4.0, 5.0, 6.0]
-# Valores de y: [0.0, 0.8415, 0.9093, 0.1411, -0.7568, -0.9589, -0.2794]
-# Evaluar con x = 0.5 resultado y = 0.42075
-# Evaluar con x = 1.5 resultado y = 0.8754
-# Evaluar con x = 2.5 resultado y = 0.5252
-# Evaluar con x = 3.5 resultado y = -0.30785
-# Evaluar con x = 4.5 resultado y = -0.85785
-# Evaluar con x = 5.5 resultado y = -0.61915
-#
-# Process finished with exit code 0

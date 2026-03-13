@@ -1,5 +1,5 @@
 # Alumno: Carolina Martinez Zuñiga
-# Metodos Numericos: Interpolacion lineal Ej2
+# Metodos Numericos: Interpolacion lineal
 
 import math
 import numpy as np
@@ -45,19 +45,3 @@ def grafica():
     plt.show()
 
 grafica()
-
-# SALIDA/EJECUCION
-# C:\Users\seooj\PycharmProjects\PythonProject5\.venv\Scripts\python.exe C:\Users\seooj\PycharmProjects\PythonProject5\MartinezZuñigaCarolina_InterLineal_Ejercicio2.py
-#
-# Número de puntos 7
-# Variable puntos: [(-3, 9), (-2, 4), (-1, 1), (0, 0), (1, 1), (2, 4), (3, 9)]
-# Valores de x: [-3, -2, -1, 0, 1, 2, 3]
-# Valores de y: [9, 4, 1, 0, 1, 4, 9]
-# Evaluar con x = -2.5 resultado y = 6.5
-# Evaluar con x = -1.5 resultado y = 2.5
-# Evaluar con x = -0.5 resultado y = 0.5
-# Evaluar con x = 0.5 resultado y = 0.5
-# Evaluar con x = 1.5 resultado y = 2.5
-# Evaluar con x = 2.5 resultado y = 6.5
-#
-# Process finished with exit code 0
